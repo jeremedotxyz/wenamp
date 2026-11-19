@@ -1,0 +1,16 @@
+# build trees
+build/
+build-*/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+compile_commands.json
+
+# generated at runtime / by the CLI
+*.ppm
+/demo.wav
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store

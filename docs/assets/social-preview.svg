@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<title>WENAMP — a classic desktop player in C++17</title>
+<desc>Three docked windows, a 19-bar FFT visualizer and a 10-band equalizer, drawn entirely in software.</desc>
+<rect width="1280" height="640" fill="#0c0e14"/>
+<polyline points="30.0,30.0 30.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="62.0,30.0 62.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="94.0,30.0 94.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="126.0,30.0 126.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="158.0,30.0 158.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="190.0,30.0 190.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="222.0,30.0 222.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="254.0,30.0 254.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="286.0,30.0 286.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="318.0,30.0 318.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="350.0,30.0 350.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="382.0,30.0 382.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="414.0,30.0 414.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="446.0,30.0 446.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="478.0,30.0 478.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="510.0,30.0 510.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="542.0,30.0 542.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="574.0,30.0 574.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="606.0,30.0 606.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="638.0,30.0 638.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="670.0,30.0 670.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="702.0,30.0 702.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="734.0,30.0 734.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="766.0,30.0 766.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="798.0,30.0 798.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="830.0,30.0 830.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="862.0,30.0 862.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="894.0,30.0 894.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="926.0,30.0 926.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="958.0,30.0 958.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="990.0,30.0 990.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="1022.0,30.0 1022.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="1054.0,30.0 1054.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="1086.0,30.0 1086.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="1118.0,30.0 1118.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="1150.0,30.0 1150.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="1182.0,30.0 1182.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="1214.0,30.0 1214.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="1246.0,30.0 1246.0,610.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,30.0 1250.0,30.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,62.0 1250.0,62.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,94.0 1250.0,94.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,126.0 1250.0,126.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,158.0 1250.0,158.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,190.0 1250.0,190.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,222.0 1250.0,222.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,254.0 1250.0,254.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,286.0 1250.0,286.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,318.0 1250.0,318.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,350.0 1250.0,350.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,382.0 1250.0,382.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,414.0 1250.0,414.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,446.0 1250.0,446.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,478.0 1250.0,478.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,510.0 1250.0,510.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,542.0 1250.0,542.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,574.0 1250.0,574.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<polyline points="30.0,606.0 1250.0,606.0" fill="none" stroke="#161a26" stroke-width="0.5"/>
+<rect x="36" y="36" width="1208" height="568" rx="8" fill="#121620" stroke="#2e3648" stroke-width="1.2"/>
+<polyline points="36.0,78.0 1244.0,78.0" fill="none" stroke="#2e3648" stroke-width="1.0"/>
+<circle cx="56" cy="57" r="5" fill="#f87171"/>
+<circle cx="72" cy="57" r="5" fill="#fbbf24"/>
+<circle cx="88" cy="57" r="5" fill="#4ade80"/>
+<rect x="120" y="44" width="96" height="26" rx="4" fill="#1e1a1c" stroke="#dd5e34" stroke-width="1.0"/>
+<text x="132" y="61" fill="#ffb08c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="700">PLAYER</text>
+<text x="230" y="61" fill="#7d8a9c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">EQUALIZER</text>
+<text x="342" y="61" fill="#7d8a9c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">PLAYLIST</text>
+<text x="988" y="61" fill="#7d8a9c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="700">WENAMP // C++17 · v0.1.0</text>
+<rect x="64" y="127.31929569172908" width="4" height="22.68070430827092" rx="0" fill="#8fa880" stroke="#8fa880" stroke-width="0"/>
+<rect x="70" y="118.73695238064205" width="4" height="31.263047619357945" rx="0" fill="#8fa880" stroke="#8fa880" stroke-width="0"/>
+<rect x="76" y="121.73565734502766" width="4" height="28.26434265497234" rx="0" fill="#8fa880" stroke="#8fa880" stroke-width="0"/>
+<rect x="82" y="133.2692395895089" width="4" height="16.7307604104911" rx="0" fill="#8fa880" stroke="#8fa880" stroke-width="0"/>
+<rect x="88" y="137.25423667664455" width="4" height="12.745763323355437" rx="0" fill="#fbbf24" stroke="#fbbf24" stroke-width="0"/>
+<rect x="94" y="128.32308257220916" width="4" height="21.676917427790855" rx="0" fill="#fbbf24" stroke="#fbbf24" stroke-width="0"/>
+<rect x="100" y="127.19984009729609" width="4" height="22.800159902703918" rx="0" fill="#fbbf24" stroke="#fbbf24" stroke-width="0"/>
+<rect x="106" y="132.8279757675849" width="4" height="17.172024232415104" rx="0" fill="#dd5e34" stroke="#dd5e34" stroke-width="0"/>
+<rect x="112" y="141.07414665431932" width="4" height="8.925853345680684" rx="0" fill="#dd5e34" stroke="#dd5e34" stroke-width="0"/>
+<text x="130" y="136" fill="#ebf0f8" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="36" font-weight="700">WENAMP</text>
+<text x="276" y="134" fill="#dd5e34" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="22" font-weight="700">/ CLASSIC</text>
+<text x="132" y="158" fill="#ffb08c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="12" font-weight="700">A DESKTOP AUDIO PLAYER, DRAWN ENTIRELY IN SOFTWARE</text>
+<text x="800" y="119" fill="#39ff6a" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="700">C++17 · FFT VISUALIZER · 10-BAND EQ</text>
+<text x="800" y="139" fill="#7d8a9c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">WAV · FLAC · MP3 · ID3 · M3U · SDL2 OPTIONAL</text>
+<polyline points="56.0,182.0 1224.0,182.0" fill="none" stroke="#2e3648" stroke-width="0.8"/>
+<rect x="56" y="204" width="560" height="360" rx="6" fill="#0e1118" stroke="#2e3648" stroke-width="1.0"/>
+<rect x="56" y="204" width="560" height="34" rx="0" fill="#141924" stroke="#2e3648" stroke-width="1.0"/>
+<text x="72" y="225" fill="#7d8a9c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">SESSION: wenamp-cli</text>
+<text x="500" y="224" fill="#39ff6a" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="10" font-weight="700">[REAL OUTPUT]</text>
+<text x="76" y="266" fill="#ebf0f8" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="12" font-weight="700">❯ wenamp-cli gen-demo demo.wav 12</text>
+<text x="76" y="290" fill="#ebf0f8" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="12" font-weight="700">❯ wenamp-cli info demo.wav</text>
+<text x="92" y="313" fill="#7d8a9c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">file     </text>
+<text x="176" y="313" fill="#39ff6a" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">demo.wav</text>
+<text x="92" y="333" fill="#7d8a9c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">duration </text>
+<text x="176" y="333" fill="#39ff6a" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">0:12 (12.000 s)</text>
+<text x="92" y="353" fill="#7d8a9c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">format   </text>
+<text x="176" y="353" fill="#39ff6a" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">44100 Hz, 2 ch</text>
+<text x="92" y="373" fill="#7d8a9c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">bitrate  </text>
+<text x="176" y="373" fill="#39ff6a" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">1411 kbps (average)</text>
+<text x="92" y="393" fill="#7d8a9c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">tags     </text>
+<text x="176" y="393" fill="#39ff6a" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">none</text>
+<text x="76" y="424" fill="#ebf0f8" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="12" font-weight="700">❯ ctest --test-dir build</text>
+<circle cx="84" cy="442" r="4" fill="#4ade80"/>
+<text x="96" y="447" fill="#4ade80" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="700">67 tests · 707 checks · 0 failed</text>
+<text x="96" y="469" fill="#7d8a9c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">3,217 lines in src/ + include/ · 1 vendored header · 0 image assets</text>
+<rect x="640" y="204" width="584" height="360" rx="6" fill="#0e1118" stroke="#2e3648" stroke-width="1.0"/>
+<rect x="640" y="204" width="584" height="34" rx="0" fill="#141924" stroke="#2e3648" stroke-width="1.0"/>
+<text x="656" y="225" fill="#ffb08c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="700">PLAYER WINDOW · 275 × 116 · RENDERED BY THE ENGINE</text>
+<text x="1130" y="224" fill="#7d8a9c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="10" font-weight="400">[2× SCALE]</text>
+<image x="657" y="254" width="550" height="232" style="image-rendering:pixelated" href="data:image/png;base64,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"/>
+<text x="656" y="511" fill="#7d8a9c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">19 log bars · 1024-pt FFT · Hann window</text>
+<text x="656" y="531" fill="#7d8a9c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">10 peaking biquads · ±12 dB · bit-exact bypass when flat</text>
+<text x="656" y="551" fill="#7d8a9c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">3 skins · docked EQ + playlist · seek, shuffle, repeat</text>
+<polyline points="36.0,564.0 1244.0,564.0" fill="none" stroke="#2e3648" stroke-width="1.0"/>
+<circle cx="56" cy="584" r="4" fill="#4ade80"/>
+<text x="68" y="589" fill="#ffb08c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="700">ENGINE ONLINE</text>
+<text x="200" y="589" fill="#7d8a9c" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400">PULL-MODEL AUDIO · HEADLESS-TESTABLE · SDL2 FOR THE WINDOW ONLY</text>
+<text x="920" y="589" fill="#39ff6a" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="11" font-weight="700">github.com/jeremedotxyz/wenamp</text>
+</svg>

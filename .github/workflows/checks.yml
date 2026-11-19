@@ -1,0 +1,52 @@
+name: Checks
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        compiler: [ g++, clang++ ]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install SDL2 (window front-end)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends cmake ninja-build libsdl2-dev
+
+      - name: Configure (${{ matrix.compiler }})
+        run: |
+          cmake -S . -B build -G Ninja \
+            -DCMAKE_BUILD_TYPE=Release \
+            -DCMAKE_CXX_COMPILER=${{ matrix.compiler }}
+
+      - name: Build
+        run: cmake --build build
+
+      - name: Run unit test suite
+        run: ctest --test-dir build --output-on-failure
+
+      - name: Run CLI verification
+        run: |
+          ./build/wenamp-cli version
+          ./build/wenamp-cli gen-demo demo.wav 5
+          ./build/wenamp-cli info demo.wav
+          ./build/wenamp-cli analyze demo.wav --seconds 2
+          ./build/wenamp-cli render-ui ui.ppm --demo --at 1.5 --eq --playlist --preset Rock
+          ./build/wenamp-cli bench
+
+      - name: Window front-end smoke test (headless SDL)
+        env:
+          SDL_VIDEODRIVER: dummy
+          SDL_AUDIODRIVER: dummy
+        run: |
+          ./build/wenamp demo.wav --eq --playlist --frames 60 --dump window.ppm
+          test -s window.ppm
